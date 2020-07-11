@@ -140,7 +140,7 @@
   title: Virtual Poster Session 1 (3:15 - 4:30am)
 - id: 3
   papers:
-  - authors Jerry Zikun Chen: 
+  - authors: Jerry Zikun Chen 
     camera_ready: true
     id: 10
     kind: poster
