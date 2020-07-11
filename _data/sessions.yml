@@ -153,7 +153,7 @@
     id: 12
     kind: poster
     session: 2
-    title: MOPO: Model-based Offline Policy Optimization
+    title: MOPO Model-based Offline Policy Optimization
     track: research
     zoom:
   - authors: Kanika Madan, Nan Rosemary Ke, Anirudh Goyal, Yoshua Bengio
@@ -161,7 +161,7 @@
     id: 13
     kind: poster
     session: 2
-    title: Meta Attention Networks: Meta Learning Attention  To Modulate Information Between  Sparsely Interacting Recurrent Modules
+    title: Meta Attention Networks Meta Learning Attention  To Modulate Information Between  Sparsely Interacting Recurrent Modules
     track: research
     zoom:
   - authors: Robert Müller
