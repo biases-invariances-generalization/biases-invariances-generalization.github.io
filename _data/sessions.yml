@@ -263,12 +263,124 @@
   title: Virtual Poster Session 2 (6:15 - 7:30am)
 - id: 4
   papers:
-  - authors: Sergei Volodin, Nevan Wichers, Jeremy Nixon
+  - authors: Brendon Matusch, Danijar Hafner, Jimmy Ba 
     camera_ready: true
-    id: 8
+    id: 9
     kind: poster
     session: 3
-    title: Resolving Spurious Correlations in Causal Models of Environments via Interventions
+    title: Evaluating Agents without Rewards 
     track: research
-    zoom: us02web.zoom.us/j/88674128226?pwd=TVd0ak5KdTA1Ni9sWDAwMWVuNEZiQT09
+    zoom: 
+  - authors: Nirbhay Modhe, Harish K Kamath, Dhruv Batra, Ashwin Kalyan
+    camera_ready: true
+    id: 20
+    kind: poster
+    session: 3
+    title: Bridging Worlds in Reinforcement Learning with Model-Advantage
+    track: research
+    zoom: 
+  - authors: Karl Pertsch, Oleh Rybkin, Frederik Ebert, Chelsea Finn, Dinesh Jayaraman, Sergey Levine  
+    camera_ready: true
+    id: 23
+    kind: poster
+    session: 3
+    title: Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors
+    track: research
+    zoom: 
+  - authors: Jialin Song, Wenjie Jiang, Amir Yazdanbakhsh, Ebrahim Songhori, Anna Darling Goldie, Navdeep Jaitly, Azalia Mirhoseini 
+    camera_ready: true
+    id: 28
+    kind: poster
+    session: 3
+    title: Efficient Imitation Learning with Local Trajectory Optimization
+    track: research
+    zoom: 
+  - authors: Ryan Julian, Benjamin Swanson, Gaurav S. Sukhatme, Sergey Levine, Chelsea Finn, Karol Hausman
+    camera_ready: true
+    id: 29
+    kind: poster
+    session: 3
+    title: Efficient Adaptation for End-to-End Vision-Based Robotic Manipulation
+    track: research
+    zoom: 
+  - authors: Giancarlo Kerg, Bhargav Kanuparthi, Anirudh Goyal, Kyle Goyette, Yoshua Bengio, Guillaume Lajoie
+    camera_ready: true
+    id: 31
+    kind: poster
+    session: 3
+    title: Learning Long-term Dependencies Using Cognitive Inductive Biases in Self-attention RNNs
+    track: research
+    zoom: 
+  - authors: Aviral Kumar, Abhishek Gupta, Sergey Levine
+    camera_ready: true
+    id: 34
+    kind: poster
+    session: 3
+    title: DisCor: Corrective Feedback in Reinforcement Learning via Distribution Correction 
+    track: research
+    zoom: 
+  - authors: Saurabh Kumar, Aviral Kumar, Sergey Levine, Chelsea Finn
+    camera_ready: true
+    id: 35
+    kind: poster
+    session: 3
+    title: One Solution is Not All You Need: Few-Shot Extrapolation via Structured MaxEnt RL
+    track: research
+    zoom: 
+  - authors: Raviteja Chunduru, Doina Precup  
+    camera_ready: true
+    id: 36
+    kind: poster
+    session: 3
+    title: Attention Option-Critic
+    track: research
+    zoom: 
+  - authors: Russell Mendonca, Xinyang Geng, Chelsea Finn, Sergey Levine
+    camera_ready: true
+    id: 42
+    kind: poster
+    session: 3
+    title: Meta-Reinforcement Learning Robust to Distributional Shift via Model Identification and Experience Relabeling 
+    track: research
+    zoom: 
+  - authors: Yash Nair, Finale Doshi-Velez
+    camera_ready: true
+    id: 45 
+    kind: poster
+    session: 3
+    title: PAC Imitation and Model-based Batch Learning of Contextual MDPs 
+    track: research
+    zoom: 
+  - authors: Harshit Sikchi, Wenxuan Zhou, David Held
+    camera_ready: true
+    id: 47
+    kind: poster
+    session: 3
+    title: Learning Off-Policy with Online Planning
+    track: research
+    zoom: 
+  - authors: Benjamin Eysenbach, Sergey Levine 
+    camera_ready: true
+    id: 49
+    kind: poster
+    session: 3
+    title: If MaxEnt RL is the Answer, What is the Question? 
+    track: research
+    zoom: 
+  - authors:  Marin Vlastelica Pogančić, Michal Rolinek, Georg Martius
+    camera_ready: true
+    id: 51
+    kind: poster
+    session: 3
+    title: Discrete Planning with End-to-end Trained Neuro-algorithmic Policies
+    track: research
+    zoom: 
+  - authors: Chi Zhang, Sanmukh Rao Kuppannagari, Viktor Prasanna 
+    camera_ready: true
+    id: 52
+    kind: poster
+    session: 3
+    title: Maximum Entropy Model Rollouts: Fast Model Based Policy Optimization without Compounding Errors
+    track: research
+    zoom: 
   title: Virtual Poster Session 3 (10:40 - 11:30am)
