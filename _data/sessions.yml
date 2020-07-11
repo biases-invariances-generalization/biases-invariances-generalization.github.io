@@ -145,10 +145,11 @@
     camera_ready: true
     id: 10
     kind: poster
-    session: 1
+    session: 2
     title: Reinforcement Learning Generalization with Surprise Minimization
     track: research
     zoom: 
+  title: Virtual Poster Session 2 ()
 - id: 4
   papers:
   - authors: Sergei Volodin, Nevan Wichers, Jeremy Nixon
@@ -159,76 +160,4 @@
     title: Resolving Spurious Correlations in Causal Models of Environments via Interventions
     track: research
     zoom: us02web.zoom.us/j/88674128226?pwd=TVd0ak5KdTA1Ni9sWDAwMWVuNEZiQT09
-  - authors: Philippe Brouillard, Alexandre Drouin, Sébastien Lachapelle, Alexandre Lacoste, Simon Lacoste-Julien
-    camera_ready: true
-    id: 10
-    kind: poster
-    session: 3
-    title: Gradient-Based Neural DAG Learning with Interventions
-    track: research
-    zoom: us02web.zoom.us/j/89865124548?pwd=akdKRU1DN2g4b1ppb1ZjbnRiM3dXQT09
-  - authors: David Krueger, Ethan Caballero, Jörn-Henrik Jacobsen, Rémi Le Priol, Jonathan Binas, Amy Zhang, Aaron Courville
-    camera_ready: true
-    id: 11
-    kind: posters
-    session: 3
-    title: Out-of-Distribution Generalization via Risk Extrapolation
-    track: research
-    zoom: us02web.zoom.us/j/86155338141?pwd=cllvUDlNZ0JFeTFteFFiY21hUnRrdz09
-  - authors: Katie Everett, Ian Fischer 
-    camera_ready: true
-    id: 12
-    kind: poster
-    session: 3
-    title: Cycles in Causal Learning
-    track: research
-    zoom: us02web.zoom.us/j/81604022893?pwd=SDVZc2s0dGgzdmF1ZlRxb2s0N2Jhdz09
-  - authors: Benjamin Lansdell
-    camera_ready: true
-    id: 14
-    kind: poster
-    session: 3
-    title: Towards intervention-centric causal reasoning in learning agents
-    track: research
-    zoom: us02web.zoom.us/j/84842983714?pwd=c1NxT1h5emlpNGFiWXUzY2pyQ2Y2QT09
-  - authors: Amy Zhang, Clare Lyle, Shagun Sodhani, Angelos Filos, Marta Kwiatkowska, Joelle Pineau, Yarin Gal, Doina Precup
-    camera_ready: true
-    id: 17
-    kind: poster
-    session: 3
-    title: 'Invariant Causal Prediction for Block MDPs'
-    track: research
-    zoom: us02web.zoom.us/j/89856121925?pwd=VHRQT214OVkvZkNFMlRnNHpjdzc2Zz09
-  - authors: Suraj Nair, Yuke Zhu, Silvio Savarese, Li Fei-Fei
-    camera_ready: true
-    id: 18
-    kind: poster
-    session: 3
-    title: Causal Induction from Visual Observations for Goal Directed Tasks
-    track: research
-    zoom: us02web.zoom.us/j/89047321699?pwd=OFR6anZJbnB3T1hwcmdLbnBnNGRTdz09
-  - authors: Elliot Creager, David Madras, Toniann Pitassi, Richard Zemel
-    camera_ready: true
-    id: 19
-    kind: poster
-    session: 3
-    title: Causal Modeling for Fairness in Dynamical Systems
-    track: research
-    zoom: us02web.zoom.us/j/81022348119?pwd=eHRjNGZxT2t0VGV5dDVnVkhRRUJ3dz09
-  - authors: Nan Rosemary Ke, Danilo Rezende, Jovana Mitrović, Jane Wang, Martin Szummer
-    camera_ready: true
-    id: 21
-    kind: poster
-    session: 3
-    title: Neural Causal Induction from Interventions
-    track: research
-    zoom: us02web.zoom.us/j/83005363961?pwd=OXZYbjV2UE9DRmU4TXVLUEwxbU83QT09
-  - authors: Tamas Madarasz, Timothy E. Behrens
-    camera_ready: true
-    id: 25
-    kind: poster
-    session: 3
-    title: 'Learning transferable task schemas by representing causal invariances'
-    track: research
-    zoom: us02web.zoom.us/j/85706213884?pwd=djkwWTl1K1hGNElNZWt1NnVtVTcrQT09
   title: Virtual Poster Session 3 (10:40 - 11:30am)
