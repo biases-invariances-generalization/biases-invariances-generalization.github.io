@@ -12,7 +12,7 @@
     id: 27
     kind: oral
     session: 1
-    title: Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers
+    title: Off-Dynamics Reinforcement Learning Training for Transfer with Domain Classifiers
     track: research
   title: Oral Presentation 
 - id: 2
@@ -46,7 +46,7 @@
     id: 17
     kind: poster
     session: 1
-    title: HAT: Hierarchical Alternative Training for Long Range Policy Transfer 
+    title: Hierarchical Alternative Training for Long Range Policy Transfer 
     track: research
     zoom: 
   - authors: Gerrit Schoettler, Ashvin Nair, Juan Aparicio Ojea, Sergey Levine, Eugen Solowjow 
@@ -134,7 +134,7 @@
     id: 55
     kind: poster
     session: 1
-    title: Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels
+    title: Image Augmentation Is All You Need
     track: research
     zoom:
 
