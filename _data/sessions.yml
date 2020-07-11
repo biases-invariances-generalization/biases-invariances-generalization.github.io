@@ -148,7 +148,119 @@
     title: Reinforcement Learning Generalization with Surprise Minimization
     track: research
     zoom: 
-  title: Virtual Poster Session 2 ()
+  - authors: Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Y. Zou, Sergey Levine, Chelsea Finn, Tengyu Ma
+    camera_ready: true
+    id: 12
+    kind: poster
+    session: 2
+    title: MOPO: Model-based Offline Policy Optimization
+    track: research
+    zoom:
+  - authors: Kanika Madan, Nan Rosemary Ke, Anirudh Goyal, Yoshua Bengio
+    camera_ready: true
+    id: 13
+    kind: poster
+    session: 2
+    title: Meta Attention Networks: Meta Learning Attention  To Modulate Information Between  Sparsely Interacting Recurrent Modules
+    track: research
+    zoom:
+  - authors: Robert Müller
+    camera_ready: true
+    id: 16
+    kind: poster
+    session: 2
+    title: Watch your Weight Reinforcement Learning
+    track: research
+    zoom:
+  - authors: Tao Chen, Pulkit Agrawal
+    camera_ready: true
+    id: 18
+    kind: poster
+    session: 2
+    title: Learning to Learn from Failures Using Replay
+    track: research
+    zoom:
+  - authors: Chuan Wen, Jierui Lin, trevor darrell, Dinesh Jayaraman, Yang Gao
+    camera_ready: true
+    id: 21
+    kind: poster
+    session: 2
+    title: Fighting Copycat Agents in Behavioral Cloning From Multiple Observations
+    track: research
+    zoom:
+  - authors: Ramanan Sekar, Oleh Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, Deepak Pathak 
+    camera_ready: true
+    id: 24
+    kind: poster
+    session: 2
+    title: Planning to Explore via Self-Supervised World Models 
+    track: research
+    zoom:
+  - authors: Purva Pruthi, Javier González, Xiaoyu Lu, Madelina Fiterau 
+    camera_ready: true
+    id: 26
+    kind: poster
+    session: 2
+    title: Structure Mapping for Transferability of Causal Models
+    track: research
+    zoom:
+  - authors: Ezgi Korkmaz 
+    camera_ready: true
+    id: 33
+    kind: poster
+    session: 2
+    title: Nesterov Momentum Adversarial Perturbations in the Deep Reinforcement Learning Domain
+    track: research
+    zoom:
+  - authors: Pierre-Alexandre Kamienny, Matteo Pirotta, Alessandro Lazaric, Thibault Lavril, Nicolas Usunier, Ludovic Denoyer
+    camera_ready: true
+    id: 39
+    kind: poster
+    session: 2
+    title: Probing Dynamic Environments with Informed Policy Regularization
+    track: research
+    zoom:
+  - authors: Taylor W. Killian, Marzyeh Ghassemi, Shalmali Joshi 
+    camera_ready: true
+    id: 40
+    kind: poster
+    session: 2
+    title: Counterfactual Transfer via Inductive Bias in Clinical Settings
+    track: research
+    zoom:
+  - authors: Amy Zhang, Rowan Thomas McAllister, Roberto Calandra, Yarin Gal, Sergey Levine
+    camera_ready: true
+    id: 41
+    kind: poster
+    session: 2
+    title: Learning Invariant Representations for Reinforcement Learning without Reconstruction 
+    track: research
+    zoom:
+  - authors: Zichuan Lin, Garrett Thomas, Guangwen Yang, Tengyu Ma 
+    camera_ready: true
+    id: 48
+    kind: poster
+    session: 2
+    title: Model-based Adversarial Meta-Reinforcement Learning
+    track: research
+    zoom:
+  - authors: Amy Zhang, Shagun Sodhani, Khimya Khetarpal, Joelle Pineau
+    camera_ready: true
+    id: 50
+    kind: poster
+    session: 2
+    title: Multi-Task Reinforcement Learning as a Hidden-Parameter Block MDP
+    track: research
+    zoom: 
+  - authors: Silviu Pitis, Elliot Creager, Animesh Garg
+    camera_ready: true
+    id: 53
+    kind: poster
+    session: 2
+    title: Counterfactual Data Augmentation using Locally Factored Dynamics 
+    track: research
+    zoom: 
+  title: Virtual Poster Session 2 (6:15 - 7:30am)
 - id: 4
   papers:
   - authors: Sergei Volodin, Nevan Wichers, Jeremy Nixon
