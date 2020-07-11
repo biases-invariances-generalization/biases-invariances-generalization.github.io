@@ -316,7 +316,7 @@
     id: 34
     kind: poster
     session: 3
-    title: DisCor: Corrective Feedback in Reinforcement Learning via Distribution Correction 
+    title: DisCor Corrective Feedback in Reinforcement Learning via Distribution Correction 
     track: research
     zoom: 
   - authors: Saurabh Kumar, Aviral Kumar, Sergey Levine, Chelsea Finn
@@ -324,7 +324,7 @@
     id: 35
     kind: poster
     session: 3
-    title: One Solution is Not All You Need: Few-Shot Extrapolation via Structured MaxEnt RL
+    title: One Solution is Not All You Need Few-Shot Extrapolation via Structured MaxEnt RL
     track: research
     zoom: 
   - authors: Raviteja Chunduru, Doina Precup  
@@ -380,7 +380,7 @@
     id: 52
     kind: poster
     session: 3
-    title: Maximum Entropy Model Rollouts: Fast Model Based Policy Optimization without Compounding Errors
+    title: Maximum Entropy Model Rollouts Fast Model Based Policy Optimization without Compounding Errors
     track: research
     zoom: 
   title: Virtual Poster Session 3 (10:40 - 11:30am)
