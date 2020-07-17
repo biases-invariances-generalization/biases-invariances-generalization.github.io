@@ -24,14 +24,14 @@
     session: 1
     title: Learning Action Priors for Visuomotor transfer
     track: research
-    zoom: https://us02web.zoom.us/j/86145627164?pwd=VHVYQmxjcWRYR3R5UUhVRHlJSnE0QT09 
+    zoom: us02web.zoom.us/j/86145627164?pwd=VHVYQmxjcWRYR3R5UUhVRHlJSnE0QT09 
   - authors: Nasim Rahaman, Anirudh Goyal, Muhammad Waleed Gondal, Manuel Wuthrich, Stefan Bauer, Yash Sharma, Yoshua Bengio, Bernhard Schölkopf 
     camera_ready: true
     id: 14
     kind: poster
     session: 1
     title: Spatially Structured Recurrent Modules
-    zoom: https://us02web.zoom.us/j/83046406175?pwd=bE93S3NFVEJWSVNrcld5ZU5ieTh0dz09 
+    zoom: us02web.zoom.us/j/83046406175?pwd=bE93S3NFVEJWSVNrcld5ZU5ieTh0dz09 
     track: research
   - authors: Shikhar Bahl, Mustafa Mukadam, Abhinav Gupta, Deepak Pathak  
     camera_ready: true
@@ -39,7 +39,7 @@
     kind: poster
     session: 1
     title: Neural Dynamic Policies for End-to-End Sensorimotor Learning
-    zoom: 
+    zoom: us02web.zoom.us/j/82828869915?pwd=WVpUNkp4enA2QkJEQVpEdWxscWRidz09 
     track: research
   - authors: Wei-Cheng Tseng, Jin-Siang Lin, Yao-Min Feng, Min Sun  
     camera_ready: true
@@ -48,7 +48,7 @@
     session: 1
     title: Hierarchical Alternative Training for Long Range Policy Transfer 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/83219650238?pwd=c3h2Z2xIVzM4NlRVTUV1UGlXc1hwQT09 
   - authors: Gerrit Schoettler, Ashvin Nair, Juan Aparicio Ojea, Sergey Levine, Eugen Solowjow 
     camera_ready: true
     id: 19
@@ -56,7 +56,7 @@
     session: 1
     title: Meta-Reinforcement Learning for Robotic Industrial Insertion Tasks
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/89131918177?pwd=KytlRDRWZjRDSGFJU0FBdjJ1c2FXQT09 
   - authors: Arip Asadulaev, Igor Kuznetsov, Gideon Stein, Andrey Filchenkov 
     camera_ready: true
     id: 22
@@ -64,7 +64,7 @@
     session: 1
     title: Conditioning of Reinforcement Learning Agents and its Policy Regularization Application 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/88943860707?pwd=VFluQXBPV3F0czBrSGNEWnUwVlc3dz09 
   - authors: Eugene Vinitsky, Yuqing Du, Kanaad V Parvate, Kathy Jang, Pieter Abbeel, Alexandre Bayen 
     camera_ready: true
     id: 25
@@ -72,7 +72,7 @@
     session: 1
     title: Robust Reinforcement Learning using Adversarial Populations 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/86207685834?pwd=bTA4QzNPRllDN0FOM09PeGFFcTdSUT09 
   - authors: Henrik Marklund, Suraj Nair, Chelsea Finn 
     camera_ready: true
     id: 30
@@ -80,7 +80,7 @@
     session: 1
     title: Exact (Then Approximate) Dynamic Programming for Deep Reinforcement Learning
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/89723172508?pwd=VVZmWVd0NXVpQ2ttajRERFcrSVBVUT09 
   - authors: Michael Lutter, Johannes Silberbauer, Joe Watson, Jan Peters
     camera_ready: true
     id: 32
@@ -88,7 +88,7 @@
     session: 1
     title: A Differentiable Newton Euler Algorithm for Multi-body Model Learning 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/86285818419?pwd=cDFzRTZqTkJKcTIreHV1MG1YanlwQT09 
   - authors: Theresa Eimer, André Biedenkapp, Frank Hutter, Marius Lindauer
     camera_ready: true
     id: 37 
@@ -96,7 +96,7 @@
     session: 1 
     title: Towards Self-Paced Context Evaluation for Contextual Reinforcement Learning
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/89590003339?pwd=QWRLUDc1bGF5b0tkWUdKOXRJNUNPUT09
   - authors: Arnab Kumar Mondal, Pratheeksha Nair, Kaleem Siddiqi
     camera_ready: true
     id: 38
@@ -104,7 +104,7 @@
     session: 1
     title: Group Equivariant Deep Reinforcement Learning
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/81771071156?pwd=QnBnYmVGbUw4OEUvWE1jQzVZQjNRQT09
   - authors: André Biedenkapp, Raghu Rajan, Frank Hutter, Marius Lindauer
     camera_ready: true
     id: 43
@@ -112,7 +112,7 @@
     session: 1
     title: Towards TempoRL Learning When to Act
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/84370719240?pwd=VkIxZXFybWU3WXZLTGFraUVDYkdHdz09
   - authors: Kartik Ahuja, Karthikeyan Shanmugam, Kush Varshney, Amit Dhurandhar
     camera_ready: true
     id: 44
@@ -120,7 +120,7 @@
     session: 1
     title: On the Equivalence of Bi-Level Optimization and Game-Theoretic Formulations of Invariant Risk Minimization
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/82263355980?pwd=U2VXc2JtUWt4SDZLWjArakF4ZHQ1QT09
   - authors: Daksh Idnani, Jonathan Kao
     camera_ready: true
     id: 46
@@ -128,7 +128,7 @@
     session: 1
     title: Learning Robust Representations with Score Invariant Learning
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/82568891374?pwd=UXhSSHRTbGdjeFE0TythOU9WWWJLUT09
   - authors: Ilya Kostrikov, Denis Yarats, Rob Fergus
     camera_ready: true
     id: 55
@@ -136,7 +136,7 @@
     session: 1
     title: Image Augmentation Is All You Need
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/81418148804?pwd=T29TbGhkR0FKS2RDTDBWZWVaOWYzdz09
   title: Virtual Poster Session 1 (3:15 - 4:30am)
 - id: 3
   papers:
@@ -147,7 +147,7 @@
     session: 2
     title: Reinforcement Learning Generalization with Surprise Minimization
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/87088054574?pwd=SkVWUTJuSVMwVnZpL2FBVnpSMzhMZz09 
   - authors: Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Y. Zou, Sergey Levine, Chelsea Finn, Tengyu Ma
     camera_ready: true
     id: 12
@@ -155,7 +155,7 @@
     session: 2
     title: MOPO Model-based Offline Policy Optimization
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/86880469838?pwd=RHFia2NjNXh6MDRqTWVYUnp6VWd1UT09
   - authors: Kanika Madan, Nan Rosemary Ke, Anirudh Goyal, Yoshua Bengio
     camera_ready: true
     id: 13
@@ -163,7 +163,7 @@
     session: 2
     title: Meta Attention Networks Meta Learning Attention  To Modulate Information Between  Sparsely Interacting Recurrent Modules
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/83377286590?pwd=c3NvUEhnVjlFNWVBb3hxcHJIOFNIQT09
   - authors: Robert Müller
     camera_ready: true
     id: 16
@@ -171,7 +171,7 @@
     session: 2
     title: Watch your Weight Reinforcement Learning
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/81194693390?pwd=dUVpR1Q4OE85VDBvQjc1bDlPb215Zz09
   - authors: Tao Chen, Pulkit Agrawal
     camera_ready: true
     id: 18
@@ -179,7 +179,7 @@
     session: 2
     title: Learning to Learn from Failures Using Replay
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/85265942488?pwd=ODQwVHNBN3k0NmRYRFV1OENzVUVBQT09
   - authors: Chuan Wen, Jierui Lin, trevor darrell, Dinesh Jayaraman, Yang Gao (First two authors, contributed equally)
     camera_ready: true
     id: 21
@@ -187,7 +187,7 @@
     session: 2
     title: Fighting Copycat Agents in Behavioral Cloning From Multiple Observations
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/86005001968?pwd=eUZsM21pRWNDVjNDa3hrMVFOWnZJdz09
   - authors: Ramanan Sekar, Oleh Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, Deepak Pathak 
     camera_ready: true
     id: 24
@@ -195,7 +195,7 @@
     session: 2
     title: Planning to Explore via Self-Supervised World Models 
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/89405365244?pwd=aVRuT1k2a1FpOUFkNTJGL0FSY3Nvdz09
   - authors: Purva Pruthi, Javier González, Xiaoyu Lu, Madalina Fiterau 
     camera_ready: true
     id: 26
@@ -203,7 +203,7 @@
     session: 2
     title: Structure Mapping for Transferability of Causal Models
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/87066161954?pwd=a0xxMDdFUFNTZ01IRVUwRkRjc2oxQT09
   - authors: Ezgi Korkmaz 
     camera_ready: true
     id: 33
@@ -211,7 +211,7 @@
     session: 2
     title: Nesterov Momentum Adversarial Perturbations in the Deep Reinforcement Learning Domain
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/81574484187?pwd=NnFFbFNqSElNWFF0cWZSVXBDdjB0Zz09
   - authors: Pierre-Alexandre Kamienny, Matteo Pirotta, Alessandro Lazaric, Thibault Lavril, Nicolas Usunier, Ludovic Denoyer
     camera_ready: true
     id: 39
@@ -219,7 +219,7 @@
     session: 2
     title: Probing Dynamic Environments with Informed Policy Regularization
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/88560739600?pwd=bzlIR01iUUNMOWdtdUFyZTZDdzh0UT09
   - authors: Taylor W. Killian, Marzyeh Ghassemi, Shalmali Joshi 
     camera_ready: true
     id: 40
@@ -227,7 +227,7 @@
     session: 2
     title: Counterfactual Transfer via Inductive Bias in Clinical Settings
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/84624966060?pwd=VCsxZHBVeVFqZExWbmFqSkZ6L3NOZz09
   - authors: Amy Zhang, Rowan Thomas McAllister, Roberto Calandra, Yarin Gal, Sergey Levine
     camera_ready: true
     id: 41
@@ -235,7 +235,7 @@
     session: 2
     title: Learning Invariant Representations for Reinforcement Learning without Reconstruction 
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/82690391321?pwd=NnFBVXZCRkcrV3VCSEdMY1R4MkNDUT09
   - authors: Zichuan Lin, Garrett Thomas, Guangwen Yang, Tengyu Ma 
     camera_ready: true
     id: 48
@@ -243,7 +243,7 @@
     session: 2
     title: Model-based Adversarial Meta-Reinforcement Learning
     track: research
-    zoom:
+    zoom: us02web.zoom.us/j/84973732657?pwd=MlBYSGRaWWhTbFN1R204SE5uWTlJZz09
   - authors: Amy Zhang, Shagun Sodhani, Khimya Khetarpal, Joelle Pineau
     camera_ready: true
     id: 50
@@ -251,7 +251,7 @@
     session: 2
     title: Multi-Task Reinforcement Learning as a Hidden-Parameter Block MDP
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/86362539985?pwd=OExPbk8vbFVneTYzSUwvR1luajNFZz09 
   - authors: Silviu Pitis, Elliot Creager, Animesh Garg
     camera_ready: true
     id: 53
@@ -259,7 +259,7 @@
     session: 2
     title: Counterfactual Data Augmentation using Locally Factored Dynamics 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/84361058959?pwd=WWZpaE1NckFGWlhPQlBjekVZVGJXdz09 
   title: Virtual Poster Session 2 (6:15 - 7:30am)
 - id: 4
   papers:
@@ -270,7 +270,7 @@
     session: 3
     title: Evaluating Agents without Rewards 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/89647309544?pwd=YlZsdzdBVzRWa2tKSy95QmRiUSttQT09 
   - authors: Nirbhay Modhe, Harish K Kamath, Dhruv Batra, Ashwin Kalyan
     camera_ready: true
     id: 20
@@ -278,7 +278,7 @@
     session: 3
     title: Bridging Worlds in Reinforcement Learning with Model-Advantage
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/89508622613?pwd=ejFzbE8yVFdTL2ZFMUplc1FHV2syZz09 
   - authors: Karl Pertsch, Oleh Rybkin, Frederik Ebert, Chelsea Finn, Dinesh Jayaraman, Sergey Levine  
     camera_ready: true
     id: 23
@@ -286,7 +286,7 @@
     session: 3
     title: Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/84356712235?pwd=Um45ckIwNW8zTi9PMEp3eWdBMXhEUT09 
   - authors: Jialin Song, Wenjie Jiang, Amir Yazdanbakhsh, Ebrahim Songhori, Anna Darling Goldie, Navdeep Jaitly, Azalia Mirhoseini 
     camera_ready: true
     id: 28
@@ -294,7 +294,7 @@
     session: 3
     title: Efficient Imitation Learning with Local Trajectory Optimization
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/81790837302?pwd=QTArL2Y4WnJFZzgwckpKZTFLZWZrQT09 
   - authors: Ryan Julian, Benjamin Swanson, Gaurav S. Sukhatme, Sergey Levine, Chelsea Finn, Karol Hausman
     camera_ready: true
     id: 29
@@ -302,7 +302,7 @@
     session: 3
     title: Efficient Adaptation for End-to-End Vision-Based Robotic Manipulation
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/89478665525?pwd=ZnNGbEgzUzdhQTdEVnB1VndBeW1aQT09 
   - authors: Giancarlo Kerg, Bhargav Kanuparthi, Anirudh Goyal, Kyle Goyette, Yoshua Bengio, Guillaume Lajoie
     camera_ready: true
     id: 31
@@ -310,7 +310,7 @@
     session: 3
     title: Learning Long-term Dependencies Using Cognitive Inductive Biases in Self-attention RNNs
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/85362100479?pwd=WDg1NXFhSkJaNHFyTk0zWVYyUzlqZz09 
   - authors: Aviral Kumar, Abhishek Gupta, Sergey Levine
     camera_ready: true
     id: 34
@@ -318,7 +318,7 @@
     session: 3
     title: DisCor Corrective Feedback in Reinforcement Learning via Distribution Correction 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/84388833116?pwd=UnVpTFlFTFk0dTJuU0ZVRW1SS2R1Zz09 
   - authors: Saurabh Kumar, Aviral Kumar, Sergey Levine, Chelsea Finn
     camera_ready: true
     id: 35
@@ -326,7 +326,7 @@
     session: 3
     title: One Solution is Not All You Need Few-Shot Extrapolation via Structured MaxEnt RL
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/87998043516?pwd=K1JreUZJWVBQOC9SbVVaWmU0Wnp6QT09 
   - authors: Raviteja Chunduru, Doina Precup  
     camera_ready: true
     id: 36
@@ -334,7 +334,7 @@
     session: 3
     title: Attention Option-Critic
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/87801228647?pwd=dS9ZMXAwVTluTzFUb1VJUUJRamJJQT09 
   - authors: Russell Mendonca, Xinyang Geng, Chelsea Finn, Sergey Levine
     camera_ready: true
     id: 42
@@ -342,7 +342,7 @@
     session: 3
     title: Meta-Reinforcement Learning Robust to Distributional Shift via Model Identification and Experience Relabeling 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/83520915716?pwd=Nng2TkJPM1l2V0REN1pkbXdGWk5IQT09 
   - authors: Yash Nair, Finale Doshi-Velez
     camera_ready: true
     id: 45 
@@ -350,7 +350,7 @@
     session: 3
     title: PAC Imitation and Model-based Batch Learning of Contextual MDPs 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/87573228172?pwd=Ujl4blJxc2RndCtXSjZ2bUNBQ0NzQT09 
   - authors: Harshit Sikchi, Wenxuan Zhou, David Held
     camera_ready: true
     id: 47
@@ -358,7 +358,7 @@
     session: 3
     title: Learning Off-Policy with Online Planning
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/83859398818?pwd=TTFuNUgxc3dKdHkzYWpNK1RZbjFHZz09 
   - authors: Benjamin Eysenbach, Sergey Levine 
     camera_ready: true
     id: 49
@@ -366,7 +366,7 @@
     session: 3
     title: If MaxEnt RL is the Answer, What is the Question? 
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/83302469273?pwd=YUN0eEtKTENab0l4TFBycDJZSUNFQT09 
   - authors:  Marin Vlastelica Pogančić, Michal Rolinek, Georg Martius
     camera_ready: true
     id: 51
@@ -374,7 +374,7 @@
     session: 3
     title: Discrete Planning with End-to-end Trained Neuro-algorithmic Policies
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/89352780355?pwd=V2tBbi82SVJZTTFRVERYU3hsZThyZz09 
   - authors: Chi Zhang, Sanmukh Rao Kuppannagari, Viktor Prasanna 
     camera_ready: true
     id: 52
@@ -382,5 +382,5 @@
     session: 3
     title: Maximum Entropy Model Rollouts Fast Model Based Policy Optimization without Compounding Errors
     track: research
-    zoom: 
+    zoom: us02web.zoom.us/j/89310608881?pwd=SnpuSk4zdVJBNEhyd1huRlpDU2N0UT09 
   title: Virtual Poster Session 3 (10:40 - 11:30am)
