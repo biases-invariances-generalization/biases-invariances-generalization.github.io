@@ -36,7 +36,7 @@ session_4: true
 		{% if page.session_id > 0 %}
 		<li>
 		{% if page.camera_ready %}
-		<span><a href="/pdf/CLDM_{{ page.id }}.pdf" target="_blank">PDF</a></span>
+		<span><a href="/pdf/big_{{ page.id }}.pdf" target="_blank">PDF</a></span>
 		{% else %}
 		<span>PDF</span>
 		{% endif %}
@@ -44,6 +44,9 @@ session_4: true
 		<span> · </span>
 		<span><a href="{{ page.meeting_url }}" target="_blank">Join Meeting Room</a></span>
 		{% elsif page.session_id == 2 and layout.session_2 and page.meeting_url %}
+		<span> · </span>
+		<span><a href="{{ page.meeting_url }}" target="_blank">Join Meeting Room</a></span>
+		{% elsif page.session_id == 3 and layout.session_3 and page.meeting_url %}
 		<span> · </span>
 		<span><a href="{{ page.meeting_url }}" target="_blank">Join Meeting Room</a></span>
 		{% endif %}
