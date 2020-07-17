@@ -7,6 +7,7 @@
     session: 1
     title: Automatic Data Augmentation for Generalization in Reinforcement Learning
     track: research
+    zoom: zoom.us/j/94693905200?pwd=bWtiL3RKZkxjcXVhTjNGVVBSV1p1UT09
   - authors: Benjamin Eysenbach, Swapnil Asawa, Ruslan Salakhutdinov, Shreyas Chaudhari, Sergey Levine 
     camera_ready: true
     id: 27
@@ -14,6 +15,7 @@
     session: 1
     title: Off-Dynamics Reinforcement Learning Training for Transfer with Domain Classifiers
     track: research
+    zoom: zoom.us/j/92464442170?pwd=YVRtQ0R6N1lnZWJTVDdRamw4MG5DUT09
   title: Oral Presentation 
 - id: 2
   papers:
